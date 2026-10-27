@@ -1,0 +1,7 @@
+| Purpose | Frame | Classical risk | Stable risk | AI class | AI conf. | AI risk |
+|---|---:|---|---|---|---:|---|
+| Early pedestrian detection | 5374275 | SAFE | SAFE | Pedestrian | 0.173 | SAFE |
+| Warning stage | 5374291 | WARNING | WARNING | Pedestrian | 0.206 | SAFE |
+| Warning + AI warning | 5374294 | WARNING | WARNING | Pedestrian | 0.104 | WARNING |
+| Emergency stage | 5374301 | EMERGENCY | EMERGENCY | Pedestrian | 0.117 | WARNING |
+| Emergency stage | 5374302 | EMERGENCY | EMERGENCY | Pedestrian | 0.108 | WARNING |
